@@ -74,7 +74,7 @@ dependencies: # 应用或包依赖的其它包或插件
       url: https://github.com/shichunlei/flutter_charts
 
   # 颜色选择器
-  flutter_colorpicker: ^0.5.0
+  flutter_colorpicker: ^0.4.0
 
   # 刷新加载控件
   flutter_easyrefresh: ^2.2.1
